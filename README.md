@@ -9,55 +9,38 @@
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.gg/RTdXPfbz3K" target="_blank" ><img src="./assets/discord.svg" alt="mrLuisFer" width='30'></a>
 </div>
 
-<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Luis Alvarez | 👨‍💻 Frontend Developer | 🌮 Mexico</p>
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Francisco Muñoz | 👨‍💻 Frontend Developer | ❤ Chile</p>
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
 - 👨‍💻 I'm a passionate Frontend Developer
 
-- 🌱 I'm currently learning about **new technologies and much more**
+- 🌱 I'm currently learning about **Nvim, JS and English**
 
-- 💙 But I always like to practice with **[Frontend Technologies💻](https://github.com/mrLuisFer)**
+- 💙 But I always like to practice the things i know
 
-- 🌟 My projects are in **[github/mrLuisFer](https://github.com/mrLuisFer?tab=repositories)**
+- 🌟 My projects are in **[github/FrancisCode13](https://github.com/FrancisCode?tab=repositories)**
 
-- 💬 I like to spend time in Twitter **[twitter.com/\_mrluisfer](https://twitter.com/lolesuncrak?s=09)**
+- 💬 I publish tweets on **[twitter.com/FrancisCode_](https://twitter.com/FrancisCode_)**
 
-- 📝 Ask me about **HTML, CSS and JavaScript** and more...
 
-- 📫 You can contact me by **[Linkedin](https://www.linkedin.com/in/mrluisfer/)**, **[Github](https://github.com/mrLuisFer)**, **[Twitter](https://twitter.com/lolesuncrak)**,etc as mrLuisFer or by email: <a href="mailto:mrluisfeer@gmail.com" >💼 mrluisfeer@gmail.com</a>
+- 📫 You can contact me by **[Github](https://github.com/FrancisCode13)**, **[Twitter](https://twitter.com/FrancisCode_)**
 
 - 🗨️ Send me a message **for talk** ☕
 
-- ☁ I also like to write articles on **[Dev.to](https://dev.to/mrluisfer)**
-
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
-<img src="./assets/babel.svg" alt="babel" width="40" height="40"/> 
-<img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-<img src="./assets/gatsby.svg" alt="gatsby" width="40" height="40"/> 
-<img src="./assets/git.svg" alt="git" width="40" height="40"/>
 <img src="./assets/html.svg" alt="html5" width="40" height="40"/>
+<img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
 <img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-<img src="./assets/nodejs.svg" alt="nodejs" width="40" height="40"/> 
-<img src="./assets/react.svg" alt="react" width="40" height="40"/> 
-<img src="./assets/redux.svg" alt="redux" width="40" height="40"/> 
+<img src="./assets/git.svg" alt="git" width="40" height="40"/>
 <img src="./assets/sass.svg" alt="sass" width="40" height="40"/> 
-<img src="./assets/tailwindcss.svg" alt="tailwind" width="40" height="40"/> 
-<img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/>
-<img src="./assets/python.svg" alt="python" width="40" height="40"/>
-<img src="https://miro.medium.com/max/318/1*c1rnU4_5k7Mimo_CA1efmQ.png" alt="styled-components" width="40" height="40"/>
-<img src="./assets/go-logo.svg" alt="golang" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="c++" widht="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+
 </p>
 
 <p style="text-align: center; margin: 1.5rem 0;" align='center'>
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
-<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrLuisFer&show_icons=true&theme=vue" alt="mrluisfer" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLuisFer&layout=compact&theme=vue" alt="mrluisfer" /></p>
-</div>
