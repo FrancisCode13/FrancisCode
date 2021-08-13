@@ -44,3 +44,8 @@
   ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 </p>
 
+<div style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancisCode13&show_icons=true&theme=vue" alt="FrancisCode13" /></p>
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisCode13&layout=compact&theme=vue" alt="FrancisCode13" /></p>
+</div>
