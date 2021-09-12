@@ -12,7 +12,7 @@
 
 - 👨‍💻 I'm a passionate Frontend Developer
 
-- 🌱 I'm currently learning about **Nvim, Go and English**
+- 🌱 I'm currently learning about **Nvim, Go and i'm improving my skills of English**
 
 - 💙 But I always like to practice the things i know
 
