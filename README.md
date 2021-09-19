@@ -4,6 +4,8 @@
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://twitter.com/FrancisCode13" target="_blank"><img src="./assets/social-media/twitter.svg" alt="FrancisCode13" width="30"  /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:franciscodeoficial@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="mail to francisco muñoz" /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.gg/dzsa2PG6Cw" target="_blank" ><img src="./assets/discord.svg" alt="Watermelon Code" width='30'></a>
+  
+  <img src="https://img.shields.io/github/followers/FrancisCode13?color=%23171717&label=Github%20Followers&logo=Github">
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Francisco Muñoz | 👨‍💻 Frontend Developer | ❤ Chile</p>
