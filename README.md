@@ -9,7 +9,7 @@
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Francisco Muñoz | 👨‍💻 Frontend Developer | ❤ Chile</p>
-<h2 style="text-align: center>
+<h2 style="margin: auto; text-align: center;">
   <img src="https://img.shields.io/github/followers/FrancisCode13?color=%23171717&label=Github%20Followers&logo=Github">
   <img src="https://img.shields.io/twitter/follow/FrancisCode_?color=%2300ACEE&label=Twitter%20Followers&logo=Twitter&style=plastic">
   <img src="https://img.shields.io/twitch/status/pancho_1313?color=%236441A5&label=Twitch%20Status&logo=Twitch">
