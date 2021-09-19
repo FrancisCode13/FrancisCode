@@ -11,6 +11,7 @@
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Francisco Muñoz | 👨‍💻 Frontend Developer | ❤ Chile</p>
 <div style="display: flex; flex-direction: row; justify-content: center">
   <img src="https://img.shields.io/github/followers/FrancisCode13?color=%23171717&label=Github%20Followers&logo=Github">
+  <img src="https://img.shields.io/twitter/follow/FrancisCode_?color=%2300ACEE&label=Twitter%20Followers&logo=Twitter&style=plastic">
 </div>
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
