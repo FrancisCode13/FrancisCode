@@ -5,10 +5,13 @@
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:franciscodeoficial@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="mail to francisco muñoz" /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://discord.gg/dzsa2PG6Cw" target="_blank" ><img src="./assets/discord.svg" alt="Watermelon Code" width='30'></a>
   
-  <img src="https://img.shields.io/github/followers/FrancisCode13?color=%23171717&label=Github%20Followers&logo=Github">
+
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Francisco Muñoz | 👨‍💻 Frontend Developer | ❤ Chile</p>
+<div style="display: flex; flex-direction: row; justify-content: center">
+  <img src="https://img.shields.io/github/followers/FrancisCode13?color=%23171717&label=Github%20Followers&logo=Github">
+</div>
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
