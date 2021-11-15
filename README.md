@@ -18,7 +18,7 @@
 
 - 🌟 My projects are in **[github/franciscomunozz](https://github.com/franciscomunozz?tab=repositories)**
 
-- 💬 I like to spend time in Twitter **[twitter.com/\franciscodev_](https://twitter.com/franciscodev_?s=09)**
+- 💬 I like to spend time in Twitter **[twitter.com/franciscodev_](https://twitter.com/franciscodev_?s=09)**
 
 - 📝 Learning ethical Pentesting
 
