@@ -16,9 +16,9 @@
 
 - 💙 Competitive Programming
 
-- 🌟 My projects are in **[github/mrLuisFer](https://github.com/franciscomunozz?tab=repositories)**
+- 🌟 My projects are in **[github/franciscomunozz](https://github.com/franciscomunozz?tab=repositories)**
 
-- 💬 I like to spend time in Twitter **[twitter.com/\_mrluisfer](https://twitter.com/franciscodev_?s=09)**
+- 💬 I like to spend time in Twitter **[twitter.com/\franciscodev_](https://twitter.com/franciscodev_?s=09)**
 
 - 📝 Learning ethical Pentesting
 
