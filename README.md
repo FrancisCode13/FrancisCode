@@ -1,4 +1,4 @@
-<h1 style="font-size: 1.7rem; font-weight: bold; text-align: left;" align='center'>Hi! Nice to meet you, i'm Francisco</h1>
+Hi! nice to meet you, i'm Francisco
 
 <br><br>
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
