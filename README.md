@@ -27,7 +27,7 @@
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
 <p align='center' style="text-align: center; display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem;">
 <img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" width="40" height="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="nodejs" width="78" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="./assets/git.svg" alt="git" width="40" height="40"/>
 <img src="./assets/html.svg" alt="html5" width="40" height="40"/>
