@@ -36,7 +36,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="c++" widht="40" height="40"/>
 </p>
 
- <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> Experience</h2>
+ <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='70' /> Experience</h2>
 
 - 👀 I participated in the OCI (Chilean Olympiad of Informatics) workshops, both intermediate and advanced, acquiring complex knowledge of the C++ language, including advanced data structures.
 
