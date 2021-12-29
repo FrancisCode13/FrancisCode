@@ -1,6 +1,5 @@
-Hi! nice to meet you, i'm Francisco
+<h2>Hi! nice to meet you, i'm Francisco</h2>
 
-<br><br>
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
 - 👨‍💻 I'm frontend developer
