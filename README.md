@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="1000px" height="60px">
+<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="1000px" height="90px"></img>
+
 # GreedyBoy
 `última actualización: frann->greedyboyy`
 ```c++
