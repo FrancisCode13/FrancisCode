@@ -1,5 +1,4 @@
-![Matrix](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif)
-
+<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" width="1000px" height="60px">
 # GreedyBoy
 `última actualización: frann->greedyboyy`
 ```c++
