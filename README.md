@@ -1,12 +1,13 @@
-<div width="100%" align="left">
-<a href="https://twitter.com/franciscodev_/">
-  <img src="https://img.shields.io/twitter/follow/franciscodev_?color=%2324283B&label=Followers&labelColor=%23181C29&logo=twitter&logoColor=%23539BF5&style=for-the-badge">
-</a>
+# GreedyBoy
+`última actualización: frann->greedyboyy`
+```c++
+cout << "¡bienvenido a mi perfil!";
+```
 
-<a href="https://GitHub.com/franciscomunozz/">
-  <img src="https://img.shields.io/github/followers/franciscomunozz?color=%2324283B&label=Followers&labelColor=%23181C29&logo=Github&logoColor=%239198BA&style=for-the-badge">
-</a>
-</div>
+Programador competitivo y Ex-Desarrollador Web
 
-<img src="i.svg" >
-
+`historial`
+- Fui desarrollador web por un tiempo, creando webs como freelancer para clientes.
+- Entré a la programación competitiva hace 2 años.
+- Participé de la OCI (Olimpiada Chilena de Informática).
+- `more soon`
