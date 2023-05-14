@@ -18,7 +18,7 @@ Programador competitivo y Ex-Desarrollador Web
 
 
 
-Listening to:
+Escuchando:
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317sw63ijdcmmggduca3j3rrrqv4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=60b55a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
