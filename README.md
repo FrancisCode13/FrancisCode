@@ -16,7 +16,10 @@ Programador competitivo y Ex-Desarrollador Web
 
 
 
+
+
 `working on ->` [dummyAI](https://github.com/greedyboyy/dummyAI)
+
 
 `actually Learning->`Python 🐍
 
